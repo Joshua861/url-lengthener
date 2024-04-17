@@ -58,8 +58,8 @@ const config = {
 				sm: "calc(var(--radius) - 4px)"
 			},
 			fontFamily: {
-				sans: [...fontFamily.sans],
-				mono: ["Jetbrains Mono"]
+				sans: ["Inter", "sans-serif"],
+				mono: ["Jetbrains Mono", "mono"]
 			}
 		}
 	},
