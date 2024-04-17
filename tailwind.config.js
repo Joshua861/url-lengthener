@@ -1,4 +1,3 @@
-import { fontFamily } from "tailwindcss/defaultTheme";
 const typography = require("@tailwindcss/typography")
 
 /** @type {import('tailwindcss').Config} */
