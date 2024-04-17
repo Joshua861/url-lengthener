@@ -16,5 +16,4 @@
 <div class="prose prose-2xl mx-auto mt-3 flex px-3 dark:prose-invert">
 	<a href="/" class="flex-1 font-mono no-underline">url lengthener</a>
 	<Button variant="outline" size="icon" on:click={toggleTheme}><SunMoon /></Button>
-	<Button href="/about" class="ml-3 no-underline" variant="outline">about</Button>
 </div>
