@@ -34,7 +34,7 @@
 	}
 </script>
 
-<div class="prose mx-auto dark:prose-invert">
+<div class="prose mx-auto px-3 dark:prose-invert">
 	<br />
 	<div class="flex">
 		<Input bind:value={urlInput} class="flex-1" type="text" placeholder="Enter link here" />
